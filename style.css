@@ -15,7 +15,7 @@ body {
     linear-gradient(135deg, rgba(255,117,140,0.7), rgba(255,126,179,0.7)),
     url("images/IMG.JPEG");
 
-  background-size: cover;
+  background-size: contain;
   background-position: center top;
   background-position: 50% 30%;   /* center */
   background-position: 0% 0%;     /* top-left */
